@@ -1,0 +1,167 @@
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo\bin\Debug\WindowsServiceModelo.exe.config
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo\bin\Debug\WindowsServiceModelo.exe
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo\bin\Debug\WindowsServiceModelo.pdb
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo\obj\Debug\WindowsServiceModelo.csproj.AssemblyReference.cache
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo\obj\Debug\WindowsServiceModelo.ProjectInstaller.resources
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo\obj\Debug\WindowsServiceModelo.csproj.GenerateResource.cache
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo\obj\Debug\WindowsServiceModelo.csproj.CoreCompileInputs.cache
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo\obj\Debug\WindowsServiceModelo.exe
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo\obj\Debug\WindowsServiceModelo.pdb
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\obj\Debug\WindowsServiceModelo.exe
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\obj\Debug\WindowsServiceModelo.pdb
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\obj\Debug\WindowsServiceModelo.csproj.AssemblyReference.cache
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\obj\Debug\WindowsServiceModelo.ProjectInstaller.resources
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\obj\Debug\WindowsServiceModelo.csproj.GenerateResource.cache
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\obj\Debug\WindowsServiceModelo.csproj.CoreCompileInputs.cache
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\WindowsServiceModelo.exe.config
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\WindowsServiceModelo.exe
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\WindowsServiceModelo.pdb
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.Buffers.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.Memory.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.Text.Json.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.ValueTuple.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.Buffers.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.Memory.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.Text.Json.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\bin\Debug\System.ValueTuple.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo - Conexão\obj\Debug\WindowsS.92B41602.Up2Date
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe.config
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.pdb
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Buffers.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Memory.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Text.Json.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.ValueTuple.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Buffers.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Memory.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Text.Json.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.ValueTuple.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\obj\Debug\WindowsServiceModelo.csproj.AssemblyReference.cache
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\obj\Debug\WindowsServiceModelo.csproj.GenerateResource.cache
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\obj\Debug\WindowsServiceModelo.csproj.CoreCompileInputs.cache
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\obj\Debug\WindowsS.92B41602.Up2Date
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\obj\Debug\WindowsServiceModelo.exe
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\obj\Debug\WindowsServiceModelo.pdb
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Data.Common.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.IO.Compression.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Net.Http.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Net.Sockets.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Security.SecureString.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Http.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.PowerPlatform.Dataverse.Client.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Security.AccessControl.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Http.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\Microsoft.PowerPlatform.Dataverse.Client.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Security.AccessControl.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\obj\Debug\WindowsServiceModelo.csproj.SuggestedBindingRedirects.cache
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\obj\Debug\WindowsServiceModelo.exe.config
+C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\obj\Debug\WindowsServiceModeloConexão.ProjectInstaller.resources

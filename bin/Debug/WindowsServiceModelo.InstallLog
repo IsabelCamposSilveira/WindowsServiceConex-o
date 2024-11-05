@@ -1,0 +1,156 @@
+﻿Instalando o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo\bin\Debug\WindowsServiceModelo.InstallLog
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModelo\bin\Debug\WindowsServiceModelo.InstallLog
+Instalando o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Instalando o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Instalando o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Instalando o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Instalando o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Instalando o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Instalando o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Instalando o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Instalando o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Instalando o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Instalando o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   assemblypath = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.exe
+   logfile = C:\Users\IsabelSilveira\source\repos\WindowsServiceModeloConexão\bin\Debug\WindowsServiceModelo.InstallLog

@@ -1,0 +1,11 @@
+Service is started at 01/11/2024 14:42:21
+Service is started at foi alterado 01/11/2024 14:54:16
+Service is started at foi alterado 01/11/2024 15:32:07
+Service was ran at 01/11/2024 15:33:11Datav: friendlyName
+Service was ran at 01/11/2024 15:34:08Datav: friendlyName
+Service was ran at 01/11/2024 15:35:08Datav: friendlyName
+Service was ran at 01/11/2024 15:36:08Datav: friendlyName
+Service was ran at 01/11/2024 15:37:08Datav: friendlyName
+Service was ran at 01/11/2024 15:38:08Datav: friendlyName
+Service was ran at 01/11/2024 15:39:08Datav: friendlyName
+Service was ran at 01/11/2024 15:40:08Datav: friendlyName
